@@ -10,7 +10,7 @@ Criação da instância de banco de dados
   - Região: `Brazil South`
   - Nível de desempenho: `Série standard (5.ª Geração)`
 - Captura de tela:
-  ![Criação da instância](./CriacaoDaInstancia.png)
+  ![Criação da instância](./imagens/CriacaoBD.png)
 
 Tive dificuldades para criar a instância e entender como ela funciona
 
