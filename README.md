@@ -9,8 +9,11 @@ Criação da instância de banco de dados
   - Grupo de recursos: `NetworkWatcherRG`
   - Região: `Brazil South`
   - Nível de desempenho: `Série standard (5.ª Geração)`
-- Captura de tela:
-  ![Criação da instância](./CriacaoDaInstancia.png)
+- Captura de tela: Criação da instância
+  ![Criação da instância](./imagens/CriacaoBD.png)
+
+  - Captura de tela: Descrição DB
+  ![Descrição](./imagens/azureDB.png)
 
 Tive dificuldades para criar a instância e entender como ela funciona
 
